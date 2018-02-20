@@ -1,2 +1,2 @@
 # Brian-Condon-College
-GMIT stuff
+Practice Code
